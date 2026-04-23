@@ -2,6 +2,11 @@
 
 A production-grade internal hiring dashboard for reviewing 100+ candidates across assignment, video, ATS, GitHub, and communication scores.
 
+
+## Live Demo
+https://your-deployed-link.vercel.app
+
+
 ## Setup & Run
 
 ```bash
