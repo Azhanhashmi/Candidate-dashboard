@@ -1,4 +1,4 @@
-# CandidateIQ — Candidate Review Dashboard
+# Coversely Ai — Candidate Review Dashboard
 
 A production-grade internal hiring dashboard for reviewing 100+ candidates across assignment, video, ATS, GitHub, and communication scores.
 
