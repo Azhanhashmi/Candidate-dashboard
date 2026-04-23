@@ -4,7 +4,7 @@ A production-grade internal hiring dashboard for reviewing 100+ candidates acros
 
 
 ## Live Demo
-https://your-deployed-link.vercel.app
+https://candidate-dashboard-ai.vercel.app
 
 
 ## Setup & Run
